@@ -1,6 +1,7 @@
 ### Olá, me chamo Cauan Guimarães Silva ✋
 
-Atualmente sou estudante de Engenharia de Software na Faculdade Católica do Salvador e pretendo atuar como desenvolvedor full stack. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+✨ **Sobre Mim:**
+Atualmente sou estudante de **Engenharia de Software** na **Faculdade Católica do Salvador**. 🚀 Pretendo atuar como **Desenvolvedor Full Stack** e estou sempre em busca de novos desafios na área de tecnologia. Tenho uma verdadeira paixão por aprender e aplicar conhecimentos para criar **soluções inovadoras**. 💡
 
 <table>
   <tr>
@@ -12,6 +13,7 @@ Atualmente sou estudante de Engenharia de Software na Faculdade Católica do Sal
     </td>
   </tr>
 </table>
+
 <br>
 
 <picture align="center">
@@ -21,6 +23,8 @@ Atualmente sou estudante de Engenharia de Software na Faculdade Católica do Sal
 </picture>
 
 <br>
+
+💻 **Tecnologias que utilizo:**
 <div>
     <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
     <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -30,10 +34,13 @@ Atualmente sou estudante de Engenharia de Software na Faculdade Católica do Sal
     <img align="center" alt="spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
     <img align="center" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 </div>
+
 <br/>
+
 <hr>
 <br/>
 
+🌍 **Conecte-se comigo:**
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eucauann/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-guimaraes-silva-23b109334/)
 [![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cauanguimaraes@hotmail.com)
