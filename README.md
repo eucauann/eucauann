@@ -10,6 +10,7 @@
   </tr>
 </table>
 <br>
+
 ![snake gif](https://github.com/eucauann/eucauann/blob/output/github-contribution-grid-snake.gif)
 
 <br>
