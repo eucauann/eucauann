@@ -37,7 +37,7 @@
 <hr>
 <br/>
 
-<h3 align="center">Conecte-se comigo:</h3>
+<h3 align="center">Contatos</h3>
 <div align="center">
     <a href="https://www.instagram.com/eucauann/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
