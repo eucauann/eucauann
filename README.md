@@ -11,7 +11,6 @@
 </table>
 <br>
 ![snake gif](https://raw.githubusercontent.com/eucauann/eucauann/main/output/github-contribution-grid-snake.gif)
-
 <br>
 <div>
     <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
@@ -26,12 +25,7 @@
 <hr>
 <br/>
 
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eucauann/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-guimaraes-silva-23b109334/)
 [![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cauanguimaraes@hotmail.com)
 <br>
-
-
-
