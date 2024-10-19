@@ -9,7 +9,7 @@
     </td>
   </tr>
 </table>
-
+![snake gif](https://github.com/your-user-name/eucauann/blob/output/github-contribution-grid-snake.gif)
 <div>
     <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
     <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -29,6 +29,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-guimaraes-silva-23b109334/)
 [![OUTLOOK](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cauanguimaraes@hotmail.com)
 <br>
-![snake gif](https://github.com/your-user-name/eucauann/blob/output/github-contribution-grid-snake.gif)
+
 
 
