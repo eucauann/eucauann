@@ -10,7 +10,8 @@
   </tr>
 </table>
 <br>
-![snake gif](https://raw.githubusercontent.com/eucauann/eucauann/main/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/eucauann/eucauann/blob/output/github-contribution-grid-snake.gif)
+
 <br>
 <div>
     <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
