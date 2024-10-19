@@ -38,7 +38,7 @@ jobs:
           outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
-          theme: dark  # Adicionando o tema escuro
+          theme: github-dark
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
