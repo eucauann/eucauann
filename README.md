@@ -43,7 +43,7 @@ Atualmente sou estudante de **Engenharia de Software** na **Faculdade Católica 
 
 ---
 
-🌍 **Conecte-se comigo:**
+🌍 **Contatos:**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eucauann/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauan-guimaraes-silva-23b109334/)
