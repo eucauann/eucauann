@@ -2,7 +2,9 @@
 
 ✨ **Sobre Mim:**
 
-Atualmente sou estudante de **Engenharia de Software** na **Universidade Católica do Salvador**. 🚀 Estou em busca de atuar como **Desenvolvedor Full Stack** e sempre pronto para novos desafios na área de tecnologia. Tenho uma verdadeira paixão por aprender e aplicar conhecimentos para criar **soluções inovadoras**. 💡 Se você está procurando alguém motivado e com sede de aprendizado, sinta-se à vontade para entrar em contato!
+✨ Sobre Mim:
+
+Sou Desenvolvedor Full Stack na Novakads e estudante de Engenharia de Software pela Universidade Católica do Salvador. 🚀 Tenho uma paixão genuína por tecnologia e inovação, sempre buscando evoluir minhas habilidades e encarar novos desafios com entusiasmo.
 
 ---
 
