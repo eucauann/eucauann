@@ -2,8 +2,6 @@
 
 ✨ **Sobre Mim:**
 
-✨ Sobre Mim:
-
 Sou Desenvolvedor Full Stack na Novakads e estudante de Engenharia de Software pela Universidade Católica do Salvador. 🚀 Tenho uma paixão genuína por tecnologia e inovação, sempre buscando evoluir minhas habilidades e encarar novos desafios com entusiasmo.
 
 ---
